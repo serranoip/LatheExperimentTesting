@@ -8,7 +8,6 @@
 ## **Hardware Setup**
 ### **Arduino**
 * Plug in the arduino and follow the picture below
-<br/>
 ![image info](./pictures/arduino.png)
 
 ### **Circuit**
@@ -26,7 +25,6 @@
 * Open the folder the *LiveDataAcquisition.mlapp*
 * Once finished, the GUI should open.
 * If everything's ready, follow the settings below:
-<br/>
 ![image info](./pictures/settings.png)\
 
 * Once your settings matched, press **START** and the app should start
@@ -36,4 +34,4 @@
 * Restart the MATLAB app
 
 ## **Final Test Result - 05/17**
-![image info](./pictures/test.png)\
+![image info](./pictures/test.png)
