@@ -25,6 +25,8 @@
 * Open the folder the *LiveDataAcquisition.mlapp*
 * Once finished, the GUI should open.
 * If everything's ready, follow the settings below:
+<br/>
+
 ![image info](/pictures/settings.PNG)
 
 * Once your settings matched, press **START** and the app should start
