@@ -12,7 +12,7 @@
 
 ### **Circuit**
 * Once the Arduino power has been connected, follow the schematic below
-![image info](/pictures/circuit.png)
+![image info](/pictures/circuit.PNG)
 
 * To double check if you have done the correct wiring, here's a reference picture of the breadboard with connections
 ![image info](/pictures/reference.png)
@@ -25,7 +25,7 @@
 * Open the folder the *LiveDataAcquisition.mlapp*
 * Once finished, the GUI should open.
 * If everything's ready, follow the settings below:
-![image info](/pictures/settings.png)
+![image info](/pictures/settings.PNG)
 
 * Once your settings matched, press **START** and the app should start
 
@@ -34,4 +34,4 @@
 * Restart the MATLAB app
 
 ## **Final Test Result - 05/17**
-![image info](/pictures/test.png)
+![image info](/pictures/test.PNG)
