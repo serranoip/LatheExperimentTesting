@@ -1,11 +1,12 @@
-# LatheExperimentTesting
+# Lathe Experiment GUI
  
 ## **Prerequisites**
 * MATLAB R2023a (this app hasn't been tested with other MATLAB versions)
 * Data Acquisition Toolbox
 * Data Acquisition Toolbox Support Package for National Instrument NI-DAQmx Devices
 
-* ### **(UPDATE - 05/23)** - **Signal Processing Toolbox** 
+* ## **(UPDATE - 05/23)** 
+     * **Signal Processing Toolbox** 
 
 ## **Hardware Setup**
 ### **Arduino**
@@ -40,5 +41,5 @@
 ## **Final Test Result - 05/17**
 ![image info](/pictures/test.PNG)
 
-## **Test using Lab Computer (without sensor) - 05/23**
+## **Test using Lab Computer - 05/23**
 ![image info](/pictures/teset.PNG)
