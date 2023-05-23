@@ -5,6 +5,8 @@
 * Data Acquisition Toolbox
 * Data Acquisition Toolbox Support Package for National Instrument NI-DAQmx Devices
 
+* ### **(UPDATE - 05/23)** - **Signal Processing Toolbox** 
+
 ## **Hardware Setup**
 ### **Arduino**
 * Plug in the arduino and follow the picture below
@@ -37,3 +39,6 @@
 
 ## **Final Test Result - 05/17**
 ![image info](/pictures/test.PNG)
+
+## **Test using Lab Computer (without sensor) - 05/23**
+![image info](/pictures/teset.PNG)
